@@ -3,6 +3,11 @@ package challenge01.test;
 import challenge01.ListaChallenge01;
 import junit.framework.TestCase;
 
+/**
+ * Test del ejercicio 1 del tuenti challenge 2011.
+ * @author adiaz
+ *
+ */
 public class ListaCallenge01Test extends TestCase {
 
 	public void testEmptyList() throws Exception{
