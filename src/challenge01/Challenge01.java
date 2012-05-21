@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/** Ejercicio 01 del Tuenti Challenge 2011. */
 public class Challenge01 {
 
 	public static void main(String[] args) throws IOException {
